@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1232px" height="964px" version="1.1"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="120.007221" cy="170.473724" rx="39.528319" ry="39.528319" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="119.980349" cy="367.037280" rx="39.526524" ry="39.526524" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="119.982724" cy="563.531795" rx="39.528736" ry="39.528736" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="119.986045" cy="759.897033" rx="39.529818" ry="39.529818" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="1101.991760" cy="170.466482" rx="39.531474" ry="39.531474" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(1101.961944 367.021484) rotate(79.907494)" rx="39.541316" ry="39.441828" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="1102.002528" cy="563.494535" rx="39.532514" ry="39.532514" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="1101.985780" cy="759.913624" rx="39.537384" ry="39.537384" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(218.203090 858.121259) rotate(-75.439913)" rx="39.547848" ry="39.418606" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(218.182287 268.699382) rotate(77.156566)" rx="39.539884" ry="39.440146" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="218.177534" cy="661.603702" rx="39.532340" ry="39.532340" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(218.189869 465.248912) rotate(-86.756346)" rx="39.567699" ry="39.414769" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(1003.783570 858.145954) rotate(-41.636020)" rx="39.522991" ry="39.457109" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="414.634539" cy="858.169806" rx="39.530491" ry="39.530491" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(610.949569 858.145766) rotate(58.112329)" rx="39.491211" ry="39.485138" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="807.384945" cy="858.152398" rx="39.524880" ry="39.524880" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(1003.776980 465.246538) rotate(-60.384892)" rx="39.537656" ry="39.451077" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(1003.804371 268.721609) rotate(-82.796200)" rx="39.537338" ry="39.459789" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(1003.798197 661.604024) rotate(-75.107771)" rx="39.517065" ry="39.471316" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="316.429768" cy="759.894459" rx="39.543813" ry="39.543813" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="414.603392" cy="268.703450" rx="39.534157" ry="39.534157" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(414.621982 465.246085) rotate(-83.526599)" rx="39.519318" ry="39.475843" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(414.625828 661.604077) rotate(68.394305)" rx="39.508624" ry="39.478192" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(512.790241 170.468381) rotate(-67.121250)" rx="39.526061" ry="39.451462" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="512.809447" cy="367.018849" rx="39.528647" ry="39.528647" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="512.807913" cy="563.507542" rx="39.528656" ry="39.528656" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(512.826016 759.895595) rotate(-62.865186)" rx="39.493800" ry="39.486833" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(316.427735 563.506205) rotate(76.830989)" rx="39.517221" ry="39.457777" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(316.425715 170.464633) rotate(89.787775)" rx="39.520247" ry="39.457655" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="316.435117" cy="367.029110" rx="39.537248" ry="39.537248" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(905.565049 170.467068) rotate(-88.832798)" rx="39.514334" ry="39.457475" stroke="red" fill="none" stroke-width="1" />
+<path d="M 894.198747,601.340330 A39.504514,39.467427 82.012192 1,1 896.984408,602.069851" fill="none" stroke ="red" stroke-width="1" />
+<ellipse transform="translate(807.373452 661.601823) rotate(32.547766)" rx="39.485472" ry="39.479432" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(905.567229 759.904678) rotate(36.145469)" rx="39.505782" ry="39.484150" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="807.382349" cy="268.721097" rx="39.526179" ry="39.526179" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(807.381530 465.233723) rotate(-78.294976)" rx="39.502324" ry="39.482367" stroke="red" fill="none" stroke-width="1" />
+<ellipse cx="709.200859" cy="759.883012" rx="39.534689" ry="39.534689" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="905.562319" cy="367.011607" rx="39.528164" ry="39.528164" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="610.961302" cy="661.605753" rx="39.522280" ry="39.522280" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse cx="709.178575" cy="563.494192" rx="39.531152" ry="39.531152" stroke="red" stroke-width="1" fill="none" /> 
+<ellipse transform="translate(709.191000 170.462860) rotate(-68.041705)" rx="39.513978" ry="39.472761" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(709.180284 367.007352) rotate(19.845013)" rx="39.517633" ry="39.488875" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(610.981003 465.258981) rotate(-84.898532)" rx="39.505372" ry="39.464730" stroke="red" fill="none" stroke-width="1" />
+<ellipse transform="translate(610.960653 268.707214) rotate(-84.034652)" rx="39.518753" ry="39.463252" stroke="red" fill="none" stroke-width="1" />
+<line x1="898.288969" y1="602.974467" x2="885.208051" y2="597.156396"  fill="none" stroke ="blue" stroke-width="1" />
+</svg>
