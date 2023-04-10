@@ -4,7 +4,9 @@ A wrapper for ELSDc.
 run the file in src/test.py can execute the function
 
 import elsdc
+
 ang_th = 22.5 #gradient angle tolerance in degrees 
+
 elsdc.call_elsdc("./demo.jpg", ang_th)
 
 For task 1, because the ELSDc algorithm needs the .pgm file. I just use the opencv to convert the .jpg file to .pgm file. The visualize file is .SVG file. I think it will be much faster if I use opencv to read the jpg file , do some preprocessing and call the later ELSDc function but I do not have time for carefully reading that part code. Sorry!
